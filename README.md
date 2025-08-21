@@ -2,7 +2,7 @@
 > Foi criado para minhas anotações
 
 ## Operadores
-> Usados para realizar ações na variáveis
+> Usados para realizar ações na variáveis <br>
 
 `int`: usado quando os númeors são inteiros.
 
