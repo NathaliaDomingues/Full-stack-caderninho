@@ -5,7 +5,11 @@ public class Perfil {
     private int idade;
 
     public void setNome(String nome){
+        //Ex: public void setNome(String nome) {
+        //nome = nome;
+        //}  vai dar erro
         this.nome = nome;
+        //this: serve para fazer referência ao objeto da classe, evitando confusões entre os atributos.
     }
 
     public void setIdade(int idade){
