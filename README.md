@@ -66,3 +66,17 @@ para o `Main` conseguir puxar as variáveis
 - `super`: acionar algum comportamento da classePai.
 - `extends´: palavra-chave usada para indicar a herança em Java.
 - `@Override`: indica que o método está sendo sobrescrito, assim evitando erros de digitação.
+
+## Laços de Repetição
+
+`equalsIgnoreCase`: usado para comparar duas strings, ignorando se for maiúscula ou minúscula.
+
+`break`: usado para terminar ou sair de um loop.
+
+`continue`: para pular a iteração do loop atual e seguir para a próxima iteração.
+
+`while()`: laço de repetição que executa um bloco de código enquanto uma condição específica for verdadeira.
+
+`for()`: usado para criar um loop que executa repetidamente um bloco de código um número especificado de vezes.
+
+`switch case()`: instrução em Java fornece uma maneira de controlar o fluxo do programa executando diferentes blocos de código com base no valor de uma única expressão.
