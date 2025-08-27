@@ -49,3 +49,20 @@ para o `Main` conseguir puxar as variáveis
 - renomeá-las no `Main`, fora do Pacote
 - nas classes do Pacote usar: `Public void nomeClasse(){}` , dentro usará
 `System.out.println` para imprimir e manter as variáveis organizadas.
+
+## Herança
+> Um conceito de Programação Orientada a Objetos (POO) que permite que uma classe (a subclasse) herde características e comportamentos (atributos e métodos) de outra classe (a superclasse).
+
+- Superclasse: classe base, de onde a herança ocorre.
+- Subclasse: classe que herda da superclasse.
+
+## Polimorfismo
+> é a capacidade de um objeto assumir diferentes formas, permitindo que ele seja tratado como uma instância de sua classe principal ou de suas subclasses.
+
+- `abstract`: usada para atingir abstração, um princípio fundamental da Programação Orientada a Objetos (POO) que se concentra em ocultar detalhes de implementação e expor apenas funcionalidades essenciais. 
+- `sealed`: só pode ser estendido por suas próprias subclasses explicitamente permitidas.
+- `non-sealed`: 
+- `permits`: usada em conjunto com `sealed` e interfaces para definir explicitamente quais classes ou interfaces podem estendê-las ou implementá-las.
+- `super`: acionar algum comportamento da classePai.
+- `extends´: palavra-chave usada para indicar a herança em Java.
+- `@Override`: indica que o método está sendo sobrescrito, assim evitando erros de digitação.
