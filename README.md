@@ -85,7 +85,11 @@ para o `Main` conseguir puxar as variáveis
 > `ArrayList<>` serve para desenvolver listas.
 
 `.add`: adiciona os elementos na lista.
+
 `for()`: pode ser usado para imprimir ou combinar com if.
+
 `remove()`: remove o elementos.
+
 `.size()`: para visualizar o número de elementos.
+
 `.clear()`: remove todos os elementos da lista.
