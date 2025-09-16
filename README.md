@@ -80,3 +80,12 @@ para o `Main` conseguir puxar as variáveis
 `for()`: usado para criar um loop que executa repetidamente um bloco de código um número especificado de vezes.
 
 `switch case()`: instrução em Java fornece uma maneira de controlar o fluxo do programa executando diferentes blocos de código com base no valor de uma única expressão.
+
+## ArrayList
+> `ArrayList<>` serve para desenvolver listas.
+
+`.add`: adiciona os elementos na lista.
+`for()`: pode ser usado para imprimir ou combinar com if.
+`remove()`: remove o elementos.
+`.size()`: para visualizar o número de elementos.
+`.clear()`: remove todos os elementos da lista.
